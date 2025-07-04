@@ -14,4 +14,5 @@ Perintah di terminal untuk menjalankan laravel
 - php artisan cache:clear
 - php artisan serve
 
-<img width="1059" alt="ss 2" src="https://github.com/user-attachments/assets/98a8f77a-c635-4915-a828-55c0e8886d64" />
+<img width="1063" alt="ss 2" src="https://github.com/user-attachments/assets/85699c5c-6526-4b2a-b081-e4165ddb6980" />
+
