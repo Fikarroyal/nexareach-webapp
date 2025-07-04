@@ -1,3 +1,6 @@
+# Nexa Reach
+
+
 Perintah di terminal untuk menjalankan laravel
 
 - composer install
