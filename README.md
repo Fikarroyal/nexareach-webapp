@@ -1,6 +1,6 @@
 # Nexa Reach V2
 
-**Tingkatkan Bisnis Sosial Media Anda Secara Mudah dan Efektif.**
+**Tingkatkan bisnis sosial media anda secara mudah dan efektif.**
 
 ---
 
@@ -13,6 +13,12 @@
 ---
 
 ## Preview Aplikasi
+
+<img width="1154" alt="one" src="https://github.com/user-attachments/assets/c1f6bd21-c540-4a8a-beee-d7a42a7e544a" />
+
+<img width="1063" alt="two" src="https://github.com/user-attachments/assets/f4cb3c9c-f0a9-49eb-8b43-1d200bf2ff92" />
+
+<img width="1080" alt="three" src="https://github.com/user-attachments/assets/25352b4c-0381-4728-b9e2-cb23944e85dd" />
 
 ---
 
@@ -74,9 +80,7 @@ npm run dev
 
 Untuk pertanyaan, hubungi kami melalui:
 
-- Instagram: [@nexareach](https://instagram.com/nexareach)
-- TikTok: [@nexareach](https://tiktok.com/@nexareach)
-- Email: [nexareach@gmail.com]
+- Email: nexareach@gmail.com
 
 ---
 
