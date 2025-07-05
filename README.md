@@ -84,4 +84,4 @@ Untuk pertanyaan, hubungi kami melalui:
 
 ---
 
-**© 2025 Nexa Reach — All Rights Reserved.**
+**© 2025 Nexa Reach | All Rights Reserved.**
