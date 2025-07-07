@@ -6,7 +6,7 @@
 
 ## Fitur Unggulan
 
-| Manajemen Sosial Media                                                                           | Konten Instagram                                                                                  | Konten TikTok                                                          |
+| Manajemen Sosial Media                                                                           | Pembuatan Konten Instagram                                                                                  | Pembuatan Konten TikTok                                                          |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | Kelola semua akun media sosial kamu tanpa ribet. Dari penjadwalan kampanye hingga posting otomatis. | Buat konten Instagram yang menarik, kreatif, dan jago promosi. Tingkatkan visibilitas dan penjualan! | Buat konten TikTok yang fun, cepat viral, dan bikin audiens betah scroll! |
 
