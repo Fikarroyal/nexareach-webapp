@@ -73,5 +73,3 @@ npm run dev
 Untuk pertanyaan, hubungi kami melalui:
 
 - Email: nexareach@gmail.com
-
-© 2025 Nexa Reach | All Rights Reserved.
