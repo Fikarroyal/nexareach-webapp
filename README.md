@@ -1,6 +1,6 @@
 # Nexa Reach V2
 
-Tingkatkan bisnis sosial media anda secara mudah dan efektif.**
+Tingkatkan bisnis sosial media anda secara mudah dan efektif.
 
 ## Fitur Unggulan
 
