@@ -1,16 +1,12 @@
 # Nexa Reach V2
 
-**Tingkatkan bisnis sosial media anda secara mudah dan efektif.**
-
----
+Tingkatkan bisnis sosial media anda secara mudah dan efektif.**
 
 ## Fitur Unggulan
 
 | Manajemen Sosial Media                                                                           | Pembuatan Konten Instagram                                                                                  | Pembuatan Konten TikTok                                                          |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | Kelola semua akun media sosial kamu tanpa ribet. Dari penjadwalan kampanye hingga posting otomatis. | Buat konten Instagram yang menarik, kreatif, dan jago promosi. Tingkatkan visibilitas dan penjualan! | Buat konten TikTok yang fun, cepat viral, dan bikin audiens betah scroll! |
-
----
 
 ## Preview Aplikasi
 
@@ -19,8 +15,6 @@
 <img width="1063" alt="two" src="https://github.com/user-attachments/assets/f4cb3c9c-f0a9-49eb-8b43-1d200bf2ff92" />
 
 <img width="1080" alt="three" src="https://github.com/user-attachments/assets/25352b4c-0381-4728-b9e2-cb23944e85dd" />
-
----
 
 ## Cara Menjalankan (Local Setup)
 
@@ -74,14 +68,10 @@ php artisan serve
 npm run dev
 ```
 
----
-
 ## Kontak
 
 Untuk pertanyaan, hubungi kami melalui:
 
 - Email: nexareach@gmail.com
 
----
-
-**© 2025 Nexa Reach | All Rights Reserved.**
+© 2025 Nexa Reach | All Rights Reserved.
